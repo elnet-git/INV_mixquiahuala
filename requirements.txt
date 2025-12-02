@@ -1,15 +1,3 @@
-Flask
-gunicorn
-reportlab
-pandas
-openpyxl
-numpy
-requests
+flask
 flask-cors
-
-
-
-
-
-
-
+gunicorn
